@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Caroline 👩🏻‍💻 </h1>
-<h3 align="center">Junior data analyst</h3>
+<h3 align="center">Data analyst</h3>
 
 - 🔭 I’m currently working on **personal projects**
 
@@ -9,7 +9,11 @@
 
 - 📫 How to reach me **c.clementemacedo@gmail.com**
 
-- 📄 Know about my experiences: Hello! I hold a degree in Chemistry and, during a course, I fell in love with the field of data. Currently, at 29, I'm immersed in studying data analysis. Prior to this, I worked as a quality analyst in an industry in Brazil. My responsibilities included managing quality standards, analyzing sector performance, troubleshooting, and addressing non-conformities. Now, I'm embarking on a new journey, delving deep into the realm of Data Science. I'm excited to apply my previous experience and learn more in this fascinating world of data. 📊💼 #DataScience #QualityAnalyst](Hello! 👋 I hold a degree in Chemistry and, during a course, I fell in love with the field of data. Currently, at 29, I'm immersed in studying data analysis. Prior to this, I worked as a quality analyst in an industry in Brazil. My responsibilities included managing quality standards, analyzing sector performance, troubleshooting, and addressing non-conformities. Now, I'm embarking on a new journey, delving deep into the realm of Data Science. I'm excited to apply my previous experience and learn more in this fascinating world of data. 📊💼 #DataScience #QualityAnalyst
+- 📄 Know about my experiences: Hello! I hold a degree in Chemistry and, during a course, I fell in love with the field of data. Currently, at 29, I'm immersed in studying data analysis. 
+<br><br>
+Prior to this, I worked as a quality analyst in an industry in Brazil. My responsibilities included managing quality standards, analyzing sector performance, troubleshooting, and addressing non-conformities.
+<br><br>
+Now, I'm embarking on a new journey, delving deep into the realm of Data Science. I'm excited to apply my previous experience and learn more in this fascinating world of data. 📊💼 #DataScience #QualityAnalyst
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
